@@ -4,7 +4,9 @@
 
 安装qlib并下载数据
 
-- task1.ipynb为文件安装成功展示
+- task1.ipynb：安装Qlib、下载数据、测试能否运行
+
+  <img src="https://camo.githubusercontent.com/ac9001a6899095dacfd7b55e52a00229cba89e0678e0a3d395109a2f635ae7ce/687474703a2f2f66696e746563682e6d7372612e636e2f696d616765735f763037302f6c6f676f2f312e706e67" alt="img" style="zoom:67%;" />
 
 
 ## Task2
@@ -21,7 +23,7 @@ RNN的原理图为：
 
 Pytorch中RNN接口：
 
-![image-20211226062708414](IMG/image-20211226062708414.png)
+<img src="IMG/image-20211226062708414.png" alt="image-20211226062708414" style="zoom:80%;" />
 
 RNN模型代码：
 
