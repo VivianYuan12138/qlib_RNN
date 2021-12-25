@@ -75,7 +75,7 @@ python task2/task2.py
 python task3/workflow_config_rnn_Alpha360.yaml
 ```
 
-在linux服务器上运行，因为n_epochs为200，截取部分运行结果如下：
+在linux服务器上运行，因为n_epochs为200，训练量过大，因此截取部分运行结果如下：
 
 ![image-20211226062128691](IMG/image-20211226062128691.png)
 
