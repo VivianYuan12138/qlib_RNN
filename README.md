@@ -1,6 +1,6 @@
 # qlib_RNN
 
-### Task1
+## Task1
 
 安装qlib并下载数据
 
@@ -8,7 +8,7 @@
 
 ---
 
-### Task2
+## Task2
 
 RNN的原理图为：
 
@@ -65,7 +65,7 @@ python task2/task2.py
 
 ---
 
-### Task3
+## Task3
 
 将task2中的RNN模型构建一个完整的workflow配置示例。将`task3/pytorch_rnn.py`放在`qlib/contrib/model`目录下。
 
