@@ -78,3 +78,4 @@ python task3/workflow_config_rnn_Alpha360.yaml
 
 ![image-20211226062128691](IMG/image-20211226062128691.png)
 
+运行完成后，策略的关键结果会被记录在workflow指定的存储目录中， 更多的过程信息会被写入主目录下的workflow_by_code.ipynb 中，我们可以用Jupyter运行该文件，查看更丰富的策略报告。
