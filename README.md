@@ -6,7 +6,6 @@
 
 - task1.ipynb为文件安装成功展示
 
----
 
 ## Task2
 
@@ -62,8 +61,6 @@ python task2/task2.py
 
 ![image-20211226060622511](IMG/image-20211226060622511.png)
 
-
----
 
 ## Task3
 
