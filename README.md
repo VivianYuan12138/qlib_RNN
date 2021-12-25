@@ -63,7 +63,7 @@ python task2/task2.py
 
 运行结果：
 
-<img src="IMG/image-20211226060622511.png" alt="image-20211226060622511" style="zoom:80%;" />
+<img src="IMG/image-20211226060622511.png" alt="image-20211226060622511" style="zoom:67%;" />
 
 
 ## Task3
