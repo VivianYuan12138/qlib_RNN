@@ -18,7 +18,11 @@ RNN的原理图为：
 
 上面的文字描述，可以形式化表示为下面的公式：
 
-![image-20211226061307455](README/image-20211226061307455.png)
+![image-20211226061307455](IMG/image-20211226061307455.png)
+
+Pytorch中RNN接口：
+
+![image-20211226062708414](IMG/image-20211226062708414.png)
 
 RNN模型代码：
 
@@ -74,3 +78,4 @@ python task3/workflow_config_rnn_Alpha360.yaml
 在linux服务器上运行，因为n_epochs为200，截取部分运行结果如下：
 
 ![image-20211226062128691](IMG/image-20211226062128691.png)
+
