@@ -61,7 +61,9 @@ class RNNModel(nn.Module):
 python task2/task2.py
 ```
 
-![image-20211226060622511](IMG/image-20211226060622511.png)
+运行结果：
+
+<img src="IMG/image-20211226060622511.png" alt="image-20211226060622511" style="zoom:80%;" />
 
 
 ## Task3
