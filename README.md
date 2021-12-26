@@ -80,4 +80,4 @@ python task3/workflow_config_rnn_Alpha360.yaml
 
 <img src="IMG/image-20211226210817949.png" alt="image-20211226210817949" style="zoom:80%;" /><img src="IMG/image-20211226212918917.png" alt="image-20211226212918917" style="zoom:80%;" />
 
-图形化报告分析：运行完成后，策略的关键结果会被记录在workflow指定的存储目录中， 更多的过程信息会被写入主目录下的`workflow_by_code.ipynb`中，我们可以用Jupyter运行该文件，查看更丰富的策略报告。
+运行完成后，策略的关键结果会被记录在workflow指定的存储目录中， 更多的过程信息会被写入主目录下的workflow_by_code.ipynb中，我们可以用Jupyter运行该文件，查看更丰富的策略报告。
