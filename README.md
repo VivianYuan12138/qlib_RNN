@@ -4,7 +4,7 @@
 
 安装qlib并下载数据
 
-- task1.ipynb：安装Qlib、下载数据、测试能否运行
+- task1/task1.ipynb：安装Qlib、下载数据、测试能否运行
 
   <img src="https://camo.githubusercontent.com/ac9001a6899095dacfd7b55e52a00229cba89e0678e0a3d395109a2f635ae7ce/687474703a2f2f66696e746563682e6d7372612e636e2f696d616765735f763037302f6c6f676f2f312e706e67" alt="img" style="zoom:67%;" />
 
@@ -76,8 +76,8 @@ python task2/task2.py
 python task3/workflow_config_rnn_Alpha360.yaml
 ```
 
-在linux服务器上运行，因为n_epochs为200，训练量过大，因此截取部分运行结果如下：
+在linux服务器上运行，因为n_epochs为200，训练量过大，本地算力不足，因此在展示结果时将**n_epochs改为3**。
 
-![image-20211226062128691](IMG/image-20211226062128691.png)
+<img src="IMG/image-20211226210817949.png" alt="image-20211226210817949" style="zoom:80%;" /><img src="IMG/image-20211226212918917.png" alt="image-20211226212918917" style="zoom:80%;" />
 
-运行完成后，策略的关键结果会被记录在workflow指定的存储目录中， 更多的过程信息会被写入主目录下的workflow_by_code.ipynb 中，我们可以用Jupyter运行该文件，查看更丰富的策略报告。
+图形化报告分析：运行完成后，策略的关键结果会被记录在workflow指定的存储目录中， 更多的过程信息会被写入主目录下的`workflow_by_code.ipynb`中，我们可以用Jupyter运行该文件，查看更丰富的策略报告。
